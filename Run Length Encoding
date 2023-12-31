@@ -41,7 +41,6 @@ string encode(string src)
             cnt = 1;
         }
     }
-    
     if (n > 0)
     {
         ans += src[n - 1];
